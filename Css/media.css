@@ -1,0 +1,538 @@
+@media (max-width: 1320px) {
+	.aerobic_text_block{
+		padding: 120px 20px 0 20px;
+	}
+}
+
+
+@media (max-width: 1140px) {
+	.container {
+		max-width: 970px;
+	}
+
+	.scr_burger_menu{
+		display: block;
+		z-index: 100;
+	}
+
+	.burger_menu{
+		display: block;
+		z-index: 100;
+	}
+
+	.header_menu_block{
+		display: none;
+	}
+
+	.scr_header_menu_block{
+		display: none;
+	}
+
+	.header_contact_block{
+		display: none;
+	}
+
+	.scr_header_contact_block{
+		display: none;
+	}
+
+	.aerobic_text_block{
+		padding: 120px 20px 0 20px;
+	}
+
+	.classes_item_img{
+		top: 350px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 992px) {
+	.container {
+		max-width: 750px;
+		padding: 0px;
+	}
+
+	.scr_burger_menu{
+		display: block;
+		z-index: 100;
+	}
+
+	.burger_menu{
+		display: block;
+		z-index: 100;
+	}
+
+	.program_block_content{
+		flex-direction: column;
+	}
+
+	.program_block_item{
+		width: 100%;
+		padding: 50px 0;
+	}
+
+	.header_menu_block{
+		display: none;
+	}
+
+	.scr_header_menu_block{
+		display: none;
+	}
+
+	.program_block_item_text_block{
+		padding: 0 200px;
+	}
+
+	.header_contact_block{
+		display: none;
+	}
+
+	.scr_header_contact_block{
+		display: none;
+	}
+
+	.header_text_block{
+		padding: 0 10px;
+	}
+
+	.header_text_block h2{
+		letter-spacing: 3px;
+		font-size: 28px;
+		line-height: 30px;
+	}
+
+	.header_text_block h3{
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.header_text_block a{
+		padding: 15px 25px;
+		font-size: 12px;
+	}
+
+	.about_onelife{
+		margin-top: 450px;
+	}
+
+	.about_onelife_content{
+		display: flex;
+		flex-direction: column;
+	}
+
+	.about_onelife_img_block{
+		margin-top: 50px;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.about_onelife_text_block{
+		width: 100%;
+	}
+
+	.cuotes_text_block h2 {
+		font-size: 19px;
+	   font-weight: 600;
+	}
+
+	.cuotes_text_block h4 {
+		font-size: 14px;
+	   font-weight: 700;
+	}
+
+	.cuotes_text_block{
+		padding: 0 10px 0 10px;
+	}
+
+	.aerobic_content{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.aerobic_img_block{
+		width: 100%;
+		background-position: center;
+	}
+
+	.aerobic_text_block{
+		width: 100%;
+		height: 520px;
+		padding: 50px 20px 0 20px;
+	}
+
+	.aerobic_text_block h2 {
+		font-size: 24px;
+	   font-weight: 600;
+	}
+
+	.aerobic_text_block h3 {
+		font-size: 14px;
+	   font-weight: 700;
+	}
+
+	.aerobic_text_block ul li{
+		font-size: 13px;
+		padding: unset;
+	}
+
+	.aerobic_text_block ul li img{
+		max-width: 100%;
+		max-height: 100%;
+
+	}
+
+	.aerobic_text_block_btn a {
+		padding: 0 15px;
+		font-size: 12px;
+		line-height: 50px;
+	}
+
+	.classes{
+		margin-top: 490px;
+	}
+
+	.classes_item_text {
+		padding: 0 150px;
+		text-align: center;
+	}
+
+	.classes_item_img{
+		top: 250px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+	.container {
+		max-width: none;
+		padding: 0 20px;
+	}
+
+	.program_block_item_text_block{
+		padding: 0 40px;
+	}
+
+	.header_text_block{
+		margin-top: 100px;
+	}
+
+	.header_text_block h2{
+		letter-spacing: 3px;
+		font-size: 28px;
+		line-height: 30px;
+	}
+
+	.header_text_block h3{
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	header{
+		background-position: center;
+	}
+
+	.header_nav_block{
+		padding: 0 10px 0 0;
+	}
+
+	.header_text_block a{
+		padding: 15px 25px;
+		font-size: 12px;
+	}
+
+	.scr_header{
+		padding: 0 10px 0 0 ;
+	}
+
+	.about_onelife_text_block{
+		padding: 0 10px 0 10px;
+	}
+
+	.about_onelife_text_block h3 {
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.about_onelife_text_block h1 {
+		letter-spacing: 3px;
+		font-size: 28px;
+		line-height: 30px;
+	}
+
+	.about_onelife_text_block p {
+	   font-size: 13px;
+	   line-height: 2.145;
+	   font-weight: 400;
+	   text-align: justify;
+	}	
+
+	.about_onelife{
+		margin-top: 600px;
+	}
+
+	.about_onelife_img_block{
+		padding: 0 10px 0 10px;
+	}
+
+	.about_onelife_btn a{
+		padding: 10px 15px;
+		line-height: 40px;
+		font-size: 12px;
+		border: 2px solid #ff0e3b;
+	}
+
+	.classes{
+		margin-top: 490px;
+	}
+
+	.classes_item{
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.classes_item_text{
+		padding: 0 90px;
+	}
+
+	.classes_item_img{
+		top: 255px;
+	}
+
+	.classes_title p{
+		font-size: 12px;
+		margin-bottom: 10px;
+	}
+
+	.classes_title h2{
+		font-size: 28px;
+		margin-bottom: 10px;
+	}
+}
+
+
+
+
+@media (max-width: 665px) {
+	.classes_item_text{
+		padding: 0 0 ;
+	}
+
+	.classes_item_img {
+		top: 280px;
+	}
+}
+
+
+
+
+@media (max-width: 435px) {
+	.classes_item_img{
+		top: 285px;
+	}
+
+	.classes_item {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+
+
+
+
+@media (max-width: 325px){
+	.classes_item_text {
+		padding: 0 0;
+	}
+
+	.classes_item {
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 80px;
+	}
+
+	.classes_item_img{
+		top: 320px;
+	}
+
+
+}
+
+
+
+
+
+
+
+@media (max-width: 300px) {
+	.about_onelife{
+		margin-top: 700px;
+	}
+
+	.aerobic_text_block {
+		height: 550px;
+	}
+
+	.aerobic_text_block a{
+		font-size: 10px;
+	}
+
+	.program_block_item_title{
+		text-align: center;
+	}
+
+	.aerobic_text_block ul li{
+		text-align: justify;
+	}
+}
+
+
+
+
+
+
+@media (max-width: 290px) {
+	.about_onelife{
+		margin-top: 700px;
+	}
+
+	.aerobic_text_block {
+		height: 550px;
+	}
+
+	.aerobic_text_block a{
+		font-size: 10px;
+	}
+
+	.program_block_item_title{
+		text-align: center;
+	}
+
+	.aerobic_text_block ul li{
+		text-align: justify;
+	}
+
+	.classes_item_img{
+		top: 360px;
+		height: 80px;
+		width: 80px;
+	}
+}
+
+
+
+@media (max-width: 280px) {
+	.about_onelife{
+		margin-top: 700px;
+	}
+
+	.aerobic_text_block {
+		height: 550px;
+	}
+
+	.aerobic_text_block a{
+		font-size: 10px;
+	}
+
+	.program_block_item_title{
+		text-align: center;
+	}
+
+	.aerobic_text_block ul li{
+		text-align: justify;
+	}
+}
+
+
+
+@media (max-width: 260px) {
+	.about_onelife{
+		margin-top: 790px;
+	}
+
+	.aerobic_text_block {
+		height: 670px;
+	}
+
+	.aerobic_text_block a{
+		font-size: 9px;
+	}
+
+	.program_block_item_title{
+		text-align: center;
+	}
+
+	.aerobic_text_block ul li{
+		text-align: justify;
+	}
+}
+
+
+
+
+
+
+
+@media (max-width: 210px) {
+	.aerobic_text_block{
+		height: 740px;
+	}
+
+	.aerobic_text_block a{
+		font-size: 8px;
+		line-height: 28px;
+		padding: 0 6px;
+	}
+
+	.about_onelife{
+		margin-top: 950px;
+	}
+}
